@@ -2,12 +2,21 @@
 
 PROJECT #1 :-
 
-Manufacturing Downtime Analysis Dashboard | Power BI, Excel 
+Manufacturing Downtime Analysis Dashboard | Power BI, Excel
 
-• Processed and cleaned manufacturing downtime records using Excel and Power Query to improve data consistency and reporting accuracy.
+• Cleaned and analyzed manufacturing downtime data using Excel and Power BI.
 
-• Restructured downtime factor data into an event-level format to better analyze recurring operational issues and production interruptions.
+• Built KPI-based dashboards to track downtime trends, major operational issues, and high-impact production batches.
 
-• Designed an interactive Power BI dashboard showcasing downtime KPIs, major downtime contributors, batch-wise impact analysis, and downtime distribution patterns.
+• Performed batch-wise and factor-wise analysis to identify machine-related downtime as the primary contributor to production loss.
 
-• Identified machine adjustment and machine failure as the primary contributors to production downtime, together accounting for over 42% of total downtime losses.
+
+Project #2 :-
+
+Global Fragile States Risk Analysis Dashboard | Power BI, Excel
+
+• Analyzed Fragile States Index data across 173 countries to study socio-economic and political risk trends.
+
+• Built interactive Power BI dashboards with country rankings, KPI insights, and geographical risk distribution visuals.
+
+• Performed comparative analysis to identify the most stable and most fragile nations based on risk indicators.
